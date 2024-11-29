@@ -23,7 +23,6 @@ Este proyecto tiene como objetivo desarrollar una base de datos en MongoDB para 
 
 ## 1. Consultas Requeridas
 
-### 1.1 Insertar Datos
+![Uploading Captura de pantalla 2024-11-29 a las 1.13.26.png…]()
 
-Se insertaron al menos 10 usuarios y 15 publicaciones con al menos 2 comentarios por publicación.
 
