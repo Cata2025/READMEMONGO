@@ -23,6 +23,7 @@ Este proyecto tiene como objetivo desarrollar una base de datos en MongoDB para 
 
 ## 1. Consultas Requeridas
 
-![Uploading Captura de pantalla 2024-11-29 a las 1.13.26.png…]()
+<img width="951" alt="Captura de pantalla 2024-11-29 a las 1 13 26" src="https://github.com/user-attachments/assets/3ddb6b04-faec-4f45-8ce4-6a1eb43a6643">
+
 
 
